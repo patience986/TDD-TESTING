@@ -1,6 +1,0 @@
-.vscode/
-node_modules/
-config/
-.env
-.package-lock.json/
-.package.json/
